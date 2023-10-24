@@ -41,8 +41,6 @@ Java developer с опытом более 2 лет в коммерческой �
 *   [Relational Models and SQL / MySQL](https://github.com/AlgosStile/MSQL) - "Реляционные модели и SQL"
 *   [Coin-scss-js-express](https://github.com/AlgosStile/CRM-coin-BTC/tree/main) - "Разработка CRM системы над криптовалютными средствами"
 *   [Spring](https://github.com/AlgosStile/Spring_java) - "Импровизация с Spring"
-*   [JDK](https://github.com/AlgosStile/JDK/tree/main/src/main/java) - Entertainment apps: игры, чаты, анимации и другое.
-
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/AlgosStile/github-profile-views-counter">
