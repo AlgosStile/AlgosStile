@@ -25,7 +25,7 @@ Java developer с опытом более 2 лет в коммерческой �
 * Wallet-service (Java + Spring Framework + Spring Boot + PostgreSQL + JDBC + Liquibase + Docker) (https://github.com/AlgosStile/Walletservice).
 * ChatApp (клиент серверное приложение на Java) https://github.com/AlgosStile/Chatapp
 * TaskList-TODO (Angular / Java-Spring boot / Spring MVC / Hibernate) (https://github.com/AlgosStile/TaskList_Spring_boot).
-* Разработка СКУ авто (Java core + collections) (https://github.com/AlgosStile/collections_java_project).
+
   
 * >>> <b>В настоящее время работаю на фрилансе...</b>
 
