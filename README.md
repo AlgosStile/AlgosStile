@@ -57,10 +57,11 @@ Java developer с опытом более 2 лет в коммерческой �
 *   [Relational Models and SQL / MySQL](https://github.com/AlgosStile/MSQL) - "Реляционные модели и SQL".
 *   [Coin-scss-js-express](https://github.com/AlgosStile/CRM-coin-BTC/tree/main) - "Разработка CRM системы над криптовалютными средствами".
 *   [Spring](https://github.com/AlgosStile/Spring_java) - "Импровизация с Spring".
+  
 
 <div align="left" style="margin: 40px 0">
  <a href="https://github.com/AlgosStile/github-profile-views-counter">
-  <img width="175px" src="https://github.com/AlgosStile/?username=AlgosStile&color=DE002D">
+  <img width="175px" src="https://komarev.com/ghpvc/?username=AlgosStile&color=DE002D">
  </a>
 </div>
 
