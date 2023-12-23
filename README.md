@@ -27,16 +27,16 @@ Java developer с опытом более 2 лет в коммерческой �
     <a href="https://vk.com/olegtodor/">
        <img src="https://img.shields.io/badge/VK-vk.com%2Folegtodor-blue?style=for-the-badge&logo=vk"/>
     </a>
-  <br>
+ 
 
 ## ✔️ Ключевые моменты
 * Wallet-service (Java + Spring Framework + Spring Boot + PostgreSQL + JDBC + Liquibase + Docker) (https://github.com/AlgosStile/Walletservice).
 * ChatApp (клиент серверное приложение на Java) https://github.com/AlgosStile/Chatapp
 * TaskList-TODO (Angular / Java-Spring boot / Spring MVC / Hibernate) (https://github.com/AlgosStile/TaskList_Spring_boot).
 
- <br> 
+ 
 * >>> <b>В настоящее время работаю в Гикбреинс.</b>
-<br>
+
 ## 🛠 Стек
 *   Java, ООП, Js
 *   Spring framework
@@ -46,7 +46,7 @@ Java developer с опытом более 2 лет в коммерческой �
 *   Liquibase, JDBC
 *   GitHub/GitLab
 *   HTML, CSS
-<br>
+
 ## ✅ Некоторые работы
 
 *   [Wallet-service](https://github.com/AlgosStile/Walletservice) - Java + Spring Framework + Spring Boot + PostgreSQL + JDBC + Liquibase + Docker.
