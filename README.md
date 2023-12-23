@@ -60,7 +60,10 @@ Java developer с опытом более 2 лет в коммерческой �
 
 <div align="left" style="margin: 40px 0">
    <a href="https://github.com/AlgosStile/github-profile-views-counter">
-       <img width="175px" src="https://tenchat.ru/Ext_java?username=AlgosStile&color=DE002D">
+       <img width="175px" src="https://tenchat.ru/Ext_java?username=Ext_java&color=DE002D">
+   </a>
+   
+       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
    </a>
 
 </div>
