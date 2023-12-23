@@ -16,6 +16,10 @@ Java developer с опытом более 2 лет в коммерческой �
    <a href="https://t.me/Algos_stile">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
+   <a href="https://tenchat.ru/Ext_java">
+       <img src="https://img.shields.io/badge/Т-vk.com%2Folegtodor-red?style=for-the-badge&logo=vk"/>
+      просто сообщение -https://img.shields.io/badge/just%20the%20message-8A2BE2
+   </a>
    
 <p align='center'>
    📫 Связь со мной: <a href='mailto:oleg.todor@mail.ru'>oleg.todor@mail.ru</a>
