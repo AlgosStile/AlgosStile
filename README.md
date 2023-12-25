@@ -3,7 +3,6 @@
 Java developer с опытом более 2 лет в коммерческой сфере. Владею отличными знаниями в области разработки на Java. Большая часть моей деятельности связана с открытым исходным кодом.
 <br></br>
 <br></br>
-
 <p align='left'>
    <a href="https://github-readme-stats.vercel.app/api?username=AlgosStile&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=AlgosStile&show_icons=true&count_private=true"/></a>
