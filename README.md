@@ -39,8 +39,8 @@
 
 
 ## ✔️ Ключевые моменты
+* Selenium_framework_scratch (Развертывание фреймворка Selenium с нуля с использованием Page Object) (https://github.com/AlgosStile/Selenium_framework_scratch).
 * Wallet-service (Java + Spring Framework + Spring Boot + PostgreSQL + JDBC + Liquibase + Docker) (https://github.com/AlgosStile/Walletservice).
-* Selenium_framework_scratch (Развертывание фреймворка Selenium с нуля с использованием Page Object) (https://github.com/AlgosStile/Selenium_framework_scratch)
 * TaskList-TODO (Angular / Java-Spring boot / Spring MVC / Hibernate) (https://github.com/AlgosStile/TaskList_Spring_boot).
 
 
