@@ -65,7 +65,6 @@ HTML, CSS | Jenkins
 *   [TaskList-TODO](https://github.com/AlgosStile/TaskList_Spring_boot) - Angular/Java-Spring boot/Spring MVC/Hibernate.
 *   [ChatApp](https://github.com/AlgosStile/Chatapp) - чат переписок: клиент серверное приложение на Java.
 *   [Moire-app-vue-интернет магазин](https://github.com/AlgosStile/Moire-app-vue) - "Сайт на js (Vue.js, Node.js и другие инструменты)".
-*   [Collections_java_project](https://github.com/AlgosStile/collections_java_project) - "Система контроля учета авто(using collections java & Junit)".
 *   [Relational Models and SQL / MySQL](https://github.com/AlgosStile/MSQL) - "Реляционные модели и SQL".
 *   [Coin-scss-js-express](https://github.com/AlgosStile/CRM-coin-BTC/tree/main) - "Разработка CRM системы над криптовалютными средствами".
 
