@@ -48,15 +48,23 @@
 
 ## 🛠 Стек
 
-Java, Spring Boot, Spring Framework | Grafana, Prometheus
+Java | Spring Framework 
 --- | --- 
-Docker, Linux | Jira
-Git | Linux, Docker
-API, Postman | REST, SOAP, HTTP
-PostgreSQL, JDBC, Liquibase, Hibernate | DevTools
-Rest Assured, Selenium, Selenide | JUnit 5, TestNG
-Jmeter | Kafka, CI/CD, Allure 
-HTML, CSS | Jenkins
+Spring Boot | Grafana
+Docker | Linux
+Prometheus | Jira
+Git | CI/CD
+API | REST  
+Postman | REST
+SOAP | HTTP
+PostgreSQL | JDBC
+Liquibase | Hibernate 
+DevTools  | Selenide
+Rest Assured | Selenium
+JUnit 5 | TestNG
+Jmeter | Kafka 
+Allure | Jenkins
+ HTML | CSS
 
 
 ## ✅ Некоторые работы
