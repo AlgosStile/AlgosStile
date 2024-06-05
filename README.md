@@ -48,7 +48,7 @@
 
 ## 🛠 Стек
 
-Java | Spring Framework 
+Java    | Spring Framework 
 --- | --- 
 Spring Boot | Grafana
 Docker | Linux
