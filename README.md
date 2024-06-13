@@ -42,7 +42,7 @@
 * Niffler (Автоматизация тестирования. Стек: Java 21, Spring OAuth 2.0 Resource Server, Spring data JPA
 Spring Web, Spring actuator, Spring web-services
 Apache Kafka, Docker, Postgres, React, GraphQL, Thymeleaf, Jakarta Bean Validation
-Jakarta JAXB, JUnit 5, Allure, Selenide, Selenoid & Selenoid-UI.) (https://github.com/AlgosStile/niffler)
+Jakarta JAXB, JUnit 5, Allure, Selenide, Selenoid & Selenoid-UI) (https://github.com/AlgosStile/niffler).
 * Selenium_framework_scratch (Развертывание фреймворка Selenium с нуля с использованием Page Object) (https://github.com/AlgosStile/Selenium_framework_scratch).
 * TaskList-TODO (Angular / Java-Spring boot / Spring MVC / Hibernate) (https://github.com/AlgosStile/TaskList_Spring_boot).
 
@@ -72,6 +72,9 @@ Allure | Jenkins
 
 ## ✅ Некоторые работы
 
+*   [Niffler](https://github.com/AlgosStile/niffler) - Автоматизация тестирования. Стек: Java 21, Spring OAuth 2.0 Resource Server, Spring data JPA
+    Spring Web, Spring actuator, Spring web-services, Apache Kafka, Docker, Postgres, React, GraphQL, Thymeleaf, Jakarta Bean Validation
+    Jakarta JAXB, JUnit 5, Allure, Selenide, Selenoid & Selenoid-UI).
 *   [Wallet-service](https://github.com/AlgosStile/Walletservice) - Java + Spring Framework + Spring Boot + PostgreSQL + JDBC + Liquibase + Docker.
 *   [TaskList-TODO](https://github.com/AlgosStile/TaskList_Spring_boot) - Angular/Java-Spring boot/Spring MVC/Hibernate.
 *   [ChatApp](https://github.com/AlgosStile/Chatapp) - чат переписок: клиент серверное приложение на Java.
