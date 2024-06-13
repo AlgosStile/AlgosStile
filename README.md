@@ -39,8 +39,11 @@
 
 
 ## ✔️ Ключевые моменты
+* Niffler (Автоматизация тестирования. Стек: Java 21, Spring OAuth 2.0 Resource Server, Spring data JPA
+Spring Web, Spring actuator, Spring gRPC by https://github.com/yidongnan, Spring web-services
+Apache Kafka, Docker, Postgres, React, GraphQL, Thymeleaf, Jakarta Bean Validation
+Jakarta JAXB, JUnit 5, Allure, Selenide, Selenoid & Selenoid-UI.) (https://github.com/AlgosStile/niffler)
 * Selenium_framework_scratch (Развертывание фреймворка Selenium с нуля с использованием Page Object) (https://github.com/AlgosStile/Selenium_framework_scratch).
-* Wallet-service (Java + Spring Framework + Spring Boot + PostgreSQL + JDBC + Liquibase + Docker) (https://github.com/AlgosStile/Walletservice).
 * TaskList-TODO (Angular / Java-Spring boot / Spring MVC / Hibernate) (https://github.com/AlgosStile/TaskList_Spring_boot).
 
 
