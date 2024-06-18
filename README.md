@@ -44,7 +44,8 @@ Spring Web, Spring actuator, Spring web-services
 Apache Kafka, Docker, Postgres, React, GraphQL, Thymeleaf, Jakarta Bean Validation
 Jakarta JAXB, JUnit 5, Allure, Selenide, Selenoid & Selenoid-UI) (https://github.com/AlgosStile/niffler).
 * Selenium_framework_scratch (Развертывание фреймворка Selenium с нуля с использованием Page Object) (https://github.com/AlgosStile/Selenium_framework_scratch).
-* TaskList-TODO (Angular / Java-Spring boot / Spring MVC / Hibernate) (https://github.com/AlgosStile/TaskList_Spring_boot).
+* Wiremock (Grpc-wiremock сервер моков для GRPC сервисов, реализованный как обёртка вокруг http-сервера WireMock) (https://github.com/AlgosStile/Grpc-wiremock).
+
 
 
 * >>> <b>В настоящее время работаю в ITFB Group</b>
