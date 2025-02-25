@@ -11,7 +11,7 @@
 <br></br>
 Часть моей деятельности связана с опен-сорс разработкой.
 <br></br>
-Мой курс по автоматизации тестирования на Java и Playwright: https://stepik.org/a/230896
+👉 Мой курс по автоматизации тестирования на Java и Playwright: https://stepik.org/a/230896
 <br></br>
 <p align='left'>
    <a href="https://github-readme-stats.vercel.app/api?username=AlgosStile&show_icons=true&count_private=true">
