@@ -80,9 +80,7 @@ Allure | Jenkins
     Jakarta JAXB, JUnit 5, Allure, Selenide, Selenoid & Selenoid-UI).
 *   [Wallet-service](https://github.com/AlgosStile/Walletservice) - Java + Spring Framework + Spring Boot + PostgreSQL + JDBC + Liquibase + Docker.
 *   [TaskList-TODO](https://github.com/AlgosStile/TaskList_Spring_boot) - Angular/Java-Spring boot/Spring MVC/Hibernate.
-*   [ChatApp](https://github.com/AlgosStile/Chatapp) - чат переписок: клиент серверное приложение на Java.
 *   [Moire-app-vue-интернет магазин](https://github.com/AlgosStile/Moire-app-vue) - "Сайт на js (Vue.js, Node.js и другие инструменты)".
-*   [Relational Models and SQL / MySQL](https://github.com/AlgosStile/MSQL) - "Реляционные модели и SQL".
 *   [Coin-scss-js-express](https://github.com/AlgosStile/CRM-coin-BTC/tree/main) - "Разработка CRM системы над криптовалютными средствами".
 
 <br></br>
