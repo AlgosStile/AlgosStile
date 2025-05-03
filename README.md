@@ -13,9 +13,9 @@
 <br></br>
 👉 Мои курсы по автоматизации тестирования на Java и Playwright: 
 <br></br>
-Базовый: https://stepik.org/a/230896;
+Базовый: https://stepik.org/a/230896
 <br></br>
-Продвинутый: https://stepik.org/a/233592.
+Продвинутый: https://stepik.org/a/233592
 <br></br>
 <p align='left'>
    <a href="https://github-readme-stats.vercel.app/api?username=AlgosStile&show_icons=true&count_private=true">
