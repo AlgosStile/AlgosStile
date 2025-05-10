@@ -44,17 +44,6 @@
     </a>
 
 
-## ✔️ Ключевые моменты
-* Niffler (Автоматизация тестирования. Стек: Java 21, Spring OAuth 2.0 Resource Server, Spring data JPA
-Spring Web, Spring actuator, Spring web-services
-Apache Kafka, Docker, Postgres, React, GraphQL, Thymeleaf, Jakarta Bean Validation
-Jakarta JAXB, JUnit 5, Allure, Selenide, Selenoid & Selenoid-UI) (https://github.com/AlgosStile/niffler).
-* Selenium_framework_scratch (Развертывание фреймворка Selenium с нуля с использованием Page Object) (https://github.com/AlgosStile/Selenium_framework_scratch).
-* Wiremock (Grpc-wiremock сервер моков для GRPC сервисов, реализованный как обёртка вокруг http-сервера WireMock) (https://github.com/AlgosStile/Grpc-wiremock).
-
-
-
-* >>> <b>В настоящее время работаю в ITFB Group</b>
 
 ## 🛠 Стек
 
@@ -77,7 +66,6 @@ Allure | Jenkins
  HTML | CSS
 
 
-## ✅ Все мои работы в профиле
 
 
 
