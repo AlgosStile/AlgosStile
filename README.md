@@ -77,15 +77,9 @@ Allure | Jenkins
  HTML | CSS
 
 
-## ✅ Некоторые работы
+## ✅ Все мои работы в профиле
 
-*   [Niffler](https://github.com/AlgosStile/niffler) - Автоматизация тестирования. Стек: Java 21, Spring OAuth 2.0 Resource Server, Spring data JPA
-    Spring Web, Spring actuator, Spring web-services, Apache Kafka, Docker, Postgres, React, GraphQL, Thymeleaf, Jakarta Bean Validation
-    Jakarta JAXB, JUnit 5, Allure, Selenide, Selenoid & Selenoid-UI).
-*   [Wallet-service](https://github.com/AlgosStile/Walletservice) - Java + Spring Framework + Spring Boot + PostgreSQL + JDBC + Liquibase + Docker.
-*   [TaskList-TODO](https://github.com/AlgosStile/TaskList_Spring_boot) - Angular/Java-Spring boot/Spring MVC/Hibernate.
-*   [Moire-app-vue-интернет магазин](https://github.com/AlgosStile/Moire-app-vue) - "Сайт на js (Vue.js, Node.js и другие инструменты)".
-*   [Coin-scss-js-express](https://github.com/AlgosStile/CRM-coin-BTC/tree/main) - "Разработка CRM системы над криптовалютными средствами".
+
 
 <br></br>
 <div align="center" style="margin: 40px 0">
