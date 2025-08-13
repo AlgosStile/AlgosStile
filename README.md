@@ -86,11 +86,11 @@
 
 ### 🚀 Ключевые проекты:
 1. **[Автотесты Web-приложения](https://github.com/AlgosStile/web-autotests)**  
-   `Selenium` `TestNG` `Allure`  
+   `Playwright` `TestNG` `Allure`  
    Фреймворк для автоматизации UI тестирования
 
 2. **[API Тестовый фреймворк](https://github.com/AlgosStile/api-test-framework)**  
-   `RestAssured` `JUnit 5` `Jackson`  
+   `Playwright` `JUnit 5` `Jackson`  
    Модульное тестирование REST API
 
 ---
