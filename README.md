@@ -1,26 +1,3 @@
-### Я — QA Engineer.
-
-Мой общий опыт в сфере IT более 9 лет.
-<br>
-Имею опыт QA тестирования фронта, бэка, микросервисной архитектуры, построения процессов тестирования с нуля - API, REST, SOAP.
-Несколько лет занимаюсь написанием UI и API автотестов на Java.
-<br></br>
-Часть моей деятельности связана с опен-сорс разработкой.
-<br></br>
-👉 Автор курса: [«Автоматизация тестирования Playwright на Java. Продвинутый»](https://stepik.org/a/233592)
-<br></br>
-<p align='left'>
-   <a href="https://github-readme-stats.vercel.app/api?username=AlgosStile&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=AlgosStile&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/AlgosStile">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlgosStile&layout=compact"/></a>
-</p>
-
-<p align='left'>
-   <br>
-
-________________________________________________
-
 <h1 align="left">Привет! 👋 Я Олег: QA Automation Engineer</h1>
 Мой общий опыт в сфере IT более 9 лет.
 <br>
@@ -29,6 +6,7 @@ ________________________________________________
 <br></br>
 👉 Автор курса: [«Автоматизация тестирования Playwright на Java. Продвинутый»](https://stepik.org/a/233592)
 <br></br>
+
 ## 📫 Связь со мной:
 </p>
 <a href="mailto:oleg.todor@mail.ru">
@@ -42,9 +20,9 @@ ________________________________________________
     </a>
     <a href="https://vk.com/olegtodor/">
        <img src="https://img.shields.io/badge/VK-vk.com%2Folegtodor-blue?style=for-the-badge&logo=vk"/>
-    </a>
-    <p align='left'>
-   <br>
+ </a>
+<p align='left'>
+<br>
 
 ---
 ### 🔧 Мой стек технологий:
