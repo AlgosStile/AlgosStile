@@ -87,6 +87,20 @@ ________________________________________________
   </a>
 </p>
 
+</p>
+<a href="mailto:oleg.todor@mail.ru">
+       <img src="https://img.shields.io/badge/@-Email-violet?style=for-the-badge&"/>
+    </a>
+    <a href="https://t.me/JavaQaTeach"> 
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+    </a>
+      <a href="https://tenchat.ru/Ext_java">
+       <img src="https://img.shields.io/badge/Т-TenChat-red?style=for-the-badge&"/>
+    </a>
+    <a href="https://vk.com/olegtodor/">
+       <img src="https://img.shields.io/badge/VK-vk.com%2Folegtodor-blue?style=for-the-badge&logo=vk"/>
+    </a>
+
 ---
 
 ### 🔧 Мой стек технологий:
