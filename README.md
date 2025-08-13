@@ -73,3 +73,65 @@ Allure | Jenkins
 </div>
 
 
+________________________________________________
+
+<h1 align="center">Привет! 👋 Я Олег</h1>
+<h3 align="center">QA Automation Engineer</h3>
+
+<p align="center">
+  <a href="https://t.me/algos_stile" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://linkedin.com/in/algos-stile" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+### 🔧 Мой стек технологий:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
+![TestNG](https://custom-icon-badges.demolab.com/badge/-TestNG-366CC6?style=flat&logo=testng&logoColor=white)
+![JUnit](https://custom-icon-badges.demolab.com/badge/-JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+
+---
+
+### 📊 GitHub статистика:
+<p align="center">
+  <a href="https://github.com/AlgosStile">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlgosStile&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlgosStile&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlgosStile&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🚀 Мои ключевые проекты:
+1. **[Автотесты Web-приложения](https://github.com/AlgosStile/web-autotests)**  
+   `Selenium` `TestNG` `Allure`  
+   Фреймворк для автоматизации UI тестирования
+
+2. **[API Тестовый фреймворк](https://github.com/AlgosStile/api-test-framework)**  
+   `RestAssured` `JUnit 5` `Jackson`  
+   Модульное тестирование REST API
+
+---
+
+### 📝 Последние активности:
+<!--START_SECTION:activity-->
+1. 🎉 Завершен проект по автоматизации тестирования платежной системы
+2. ⭐ Получен 
+3. 🚀 
+<!--END_SECTION:activity-->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlgosStile&color=blueviolet&style=flat-square" alt="Profile Views"/>
+</p>
