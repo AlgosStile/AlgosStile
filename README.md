@@ -55,7 +55,7 @@
 ![Selenide](https://img.shields.io/badge/Selenide-43B02A?style=flat&logo=selenium&logoColor=white)
 ![RestAssured](https://img.shields.io/badge/RestAssured-43B02A?style=flat&logo=rest-assured&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-A50034?style=flat&logo=playwright&logoColor=white)
 <br>
 <br>
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
