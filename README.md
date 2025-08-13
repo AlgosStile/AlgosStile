@@ -19,31 +19,6 @@
 <p align='left'>
    <br>
 
-## 📫 Связь со мной:
-
-</p>
-<a href="mailto:oleg.todor@mail.ru">
-       <img src="https://img.shields.io/badge/@-Email-violet?style=for-the-badge&"/>
-    </a>
-    <a href="https://t.me/JavaQaTeach"> 
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-    </a>
-      <a href="https://tenchat.ru/Ext_java">
-       <img src="https://img.shields.io/badge/Т-TenChat-red?style=for-the-badge&"/>
-    </a>
-    <a href="https://vk.com/olegtodor/">
-       <img src="https://img.shields.io/badge/VK-vk.com%2Folegtodor-blue?style=for-the-badge&logo=vk"/>
-    </a>
-
-
-<br></br>
-<div align="center" style="margin: 40px 0">
- <a href="https://github.com/AlgosStile/github-profile-views-counter">
-  <img width="175px" src="https://komarev.com/ghpvc/?username=AlgosStile&color=DE002D">
- </a>
-</div>
-
-
 ________________________________________________
 
 <h1 align="left">Привет! 👋 Я Олег: QA Automation Engineer</h1>
@@ -68,6 +43,8 @@ ________________________________________________
     <a href="https://vk.com/olegtodor/">
        <img src="https://img.shields.io/badge/VK-vk.com%2Folegtodor-blue?style=for-the-badge&logo=vk"/>
     </a>
+    <p align='left'>
+   <br>
 
 ---
 ### 🔧 Мой стек технологий:
