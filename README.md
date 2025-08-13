@@ -78,15 +78,6 @@ ________________________________________________
 <h1 align="center">Привет! 👋 Я Олег</h1>
 <h3 align="center">QA Automation Engineer</h3>
 
-<p align="center">
-  <a href="https://t.me/algos_stile" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://linkedin.com/in/algos-stile" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
 </p>
 <a href="mailto:oleg.todor@mail.ru">
        <img src="https://img.shields.io/badge/@-Email-violet?style=for-the-badge&"/>
