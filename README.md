@@ -21,9 +21,6 @@
       <a href="https://tenchat.ru/Ext_java">
        <img src="https://img.shields.io/badge/Т-TenChat-red?style=for-the-badge&"/>
     </a>
-    <a href="https://vk.com/olegtodor/">
-       <img src="https://img.shields.io/badge/VK-vk.com%2Folegtodor-blue?style=for-the-badge&logo=vk"/>
- </a>
  <a href="https://vk.com/olegtodor/">
        <img src="https://img.shields.io/badge/VK-vk.com-003399?style=for-the-badge&logo=vk"/>
  </a>
