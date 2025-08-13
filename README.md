@@ -1,11 +1,8 @@
-### Привет 👋, я Олег.
+### Я — QA Engineer.
 
 Мой общий опыт в сфере IT более 9 лет.
 <br></br>
-С 2016 занимаюсь frontend-разработкой сайтов и интернет-магазинов - Js, HTML, CSS, Git.
 
-В 2020 познакомился со сферой тестирования и стало интересно вести профессиональную деятельность в этом направлении - Java( Maven), Rest Assured, Selenium, Playwright.
-<br></br>
 Имею опыт QA тестирования фронта, бэка, микросервисной архитектуры, построения процесса тестирования на проекте с нуля - API, REST, SOAP.
 Несколько лет занимаюсь написанием UI и API автотестов на Java.
 <br></br>
@@ -93,17 +90,6 @@ ________________________________________________
     </a>
 
 ---
-
-### 🔧 Мой стек технологий:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
-![TestNG](https://custom-icon-badges.demolab.com/badge/-TestNG-366CC6?style=flat&logo=testng&logoColor=white)
-![JUnit](https://custom-icon-badges.demolab.com/badge/-JUnit-25A162?style=flat&logo=junit5&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-
----
 ### 🔧 Мой стек технологий:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -114,6 +100,7 @@ ________________________________________________
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 <br>
+<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=flat&logo=github-actions&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-FF6C37?style=flat&logo=rest&logoColor=white)
@@ -121,6 +108,7 @@ ________________________________________________
 ![SOAP](https://img.shields.io/badge/SOAP-777777?style=flat&logo=soap&logoColor=white)
 ![HTTP](https://img.shields.io/badge/HTTP-00599C?style=flat&logo=http&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+<br>
 <br>
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat&logo=java&logoColor=white)
 ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=flat&logo=liquibase&logoColor=white)
@@ -130,6 +118,7 @@ ________________________________________________
 ![RestAssured](https://img.shields.io/badge/RestAssured-43B02A?style=flat&logo=rest-assured&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 <br>
+<br>
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
 ![TestNG](https://custom-icon-badges.demolab.com/badge/TestNG-366CC6?style=flat&logo=testng&logoColor=white)
 ![Jmeter](https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white)
@@ -137,6 +126,7 @@ ________________________________________________
 ![Allure](https://img.shields.io/badge/Allure-FF4A7A?style=flat&logo=allure&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+<br>
 <br>
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
