@@ -55,6 +55,7 @@
 ![Selenide](https://img.shields.io/badge/Selenide-43B02A?style=flat&logo=selenium&logoColor=white)
 ![RestAssured](https://img.shields.io/badge/RestAssured-43B02A?style=flat&logo=rest-assured&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 <br>
 <br>
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
@@ -64,10 +65,9 @@
 ![Allure](https://img.shields.io/badge/Allure-FF4A7A?style=flat&logo=allure&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-<br>
-<br>
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+<br>
+<br>
 ---
 
 ### 📊 GitHub статистика:
