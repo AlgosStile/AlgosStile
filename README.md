@@ -37,31 +37,6 @@
     </a>
 
 
-
-## 🛠 Стек
-
-Java | Spring Framework 
---- | --- 
-Spring Boot | Grafana
-Docker | Linux
-Prometheus | Jira
-Git | CI/CD
-API | REST  
-Postman | REST
-SOAP | HTTP
-PostgreSQL | JDBC
-Liquibase | Hibernate 
-DevTools  | Selenide
-Rest Assured | Selenium
-JUnit 5 | TestNG
-Jmeter | Kafka 
-Allure | Jenkins
- HTML | CSS
-
-
-
-
-
 <br></br>
 <div align="center" style="margin: 40px 0">
  <a href="https://github.com/AlgosStile/github-profile-views-counter">
@@ -167,3 +142,10 @@ ________________________________________________
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlgosStile&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </p>
+
+<br></br>
+<div align="center" style="margin: 40px 0">
+ <a href="https://github.com/AlgosStile/github-profile-views-counter">
+  <img width="175px" src="https://komarev.com/ghpvc/?username=AlgosStile&color=DE002D">
+ </a>
+</div>
