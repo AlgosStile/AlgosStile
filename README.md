@@ -71,14 +71,14 @@
 ---
 
 ### 📊 GitHub статистика:
-<p align="center">
+<p align="left">
   <a href="https://github.com/AlgosStile">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlgosStile&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlgosStile&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlgosStile&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
