@@ -47,7 +47,7 @@
 ________________________________________________
 
 <h1 align="left">Привет! 👋 Я Олег</h1>
-<h3 align="center">QA Automation Engineer</h3>
+<h3 align="left">QA Automation Engineer</h3>
 
 </p>
 <a href="mailto:oleg.todor@mail.ru">
