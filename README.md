@@ -28,6 +28,7 @@
 <br>
 
 ---
+
 ### 🔧 Стек:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -68,6 +69,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 <br>
 <br>
+
 ---
 
 ### 📊 GitHub статистика:
