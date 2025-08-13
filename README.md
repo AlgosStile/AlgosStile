@@ -136,12 +136,9 @@ ________________________________________________
 <!--START_SECTION:activity-->
 1. 🎉 Завершен проект по автоматизации тестирования платежной системы
 2. ⭐ Получен 
-3. 🚀 
-<!--END_SECTION:activity-->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlgosStile&color=blueviolet&style=flat-square" alt="Profile Views"/>
-</p>
+3. 🚀
+   
+---
 
 <br></br>
 <div align="center" style="margin: 40px 0">
