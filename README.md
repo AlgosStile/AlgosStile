@@ -10,7 +10,7 @@
 
 ---
 
-## 📫 Связь со мной:
+## 📫 Контакты:
 </p>
 <a href="mailto:oleg.todor@mail.ru">
        <img src="https://img.shields.io/badge/@-Email-violet?style=for-the-badge&"/>
