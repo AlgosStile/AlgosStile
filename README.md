@@ -99,6 +99,43 @@ ________________________________________________
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
 ---
+### 🔧 Мой стек технологий:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=flat&logo=github-actions&logoColor=white)
+![REST](https://img.shields.io/badge/REST-FF6C37?style=flat&logo=rest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![SOAP](https://img.shields.io/badge/SOAP-777777?style=flat&logo=soap&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-00599C?style=flat&logo=http&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+<br>
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat&logo=java&logoColor=white)
+![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=flat&logo=liquibase&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![DevTools](https://img.shields.io/badge/DevTools-555555?style=flat&logo=visual-studio-code&logoColor=white)
+![Selenide](https://img.shields.io/badge/Selenide-43B02A?style=flat&logo=selenium&logoColor=white)
+![RestAssured](https://img.shields.io/badge/RestAssured-43B02A?style=flat&logo=rest-assured&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+<br>
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
+![TestNG](https://custom-icon-badges.demolab.com/badge/TestNG-366CC6?style=flat&logo=testng&logoColor=white)
+![Jmeter](https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure-FF4A7A?style=flat&logo=allure&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+<br>
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+---
 
 ### 📊 GitHub статистика:
 <p align="center">
