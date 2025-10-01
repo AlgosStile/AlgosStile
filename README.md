@@ -15,9 +15,6 @@
 <a href="mailto:oleg.todor@mail.ru">
        <img src="https://img.shields.io/badge/@-Email-E4007B?style=for-the-badge&"/>
     </a>
-    <a href="https://t.me/JavaQaTeach"> 
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-    </a>
       <a href="https://tenchat.ru/Ext_java">
        <img src="https://img.shields.io/badge/Т-TenChat-EB0000?style=for-the-badge&"/>
     </a>
